@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function Hero(props){
+export default function card(props){
     return (
         <div className="card">
             <img className="card--image" src={ props.img} alt="" />
