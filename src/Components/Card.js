@@ -12,7 +12,6 @@ export default function Hero(props){
             </div>
             <p>{ props.info }</p>
             <p><span className="bold">From ${ props.price } / </span>person</p>
-            
         </div>
     )
 }
